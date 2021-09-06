@@ -1,0 +1,2 @@
+# ThaiRice
+Final Project ThaiRice
